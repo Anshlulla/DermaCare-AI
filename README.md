@@ -3,6 +3,7 @@
 ---
 #### **Streamlit URL**
 [Vis-RAG](https://dermacare-ai.streamlit.app)
+[TxT-RAG](https://pdiddy-ifq52ac4nzsss9k4t4n93o.streamlit.app/)
 
 #### **Project Overview**
 The Multi-Modal Medical Assistant (MMA) is a cutting-edge tool designed to enhance healthcare diagnostics by integrating visual and textual data analysis. It employs Visual Retrieval-Augmented Generation (VIS-RAG) and Text Retrieval-Augmented Generation (Text-RAG) pipelines to process multi-modal medical data, providing efficient and accurate classification tasks. The system is augmented with LangSmith for evaluation, monitoring, and debugging, ensuring transparency and robust performance.
