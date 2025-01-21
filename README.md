@@ -1,7 +1,7 @@
 # DermaCare-AI
 
 ---
-#### **Streamlit URL:
+#### **Streamlit URL**
 [Vis-RAG](https://dermacare-ai.streamlit.app)
 
 #### **Project Overview**
